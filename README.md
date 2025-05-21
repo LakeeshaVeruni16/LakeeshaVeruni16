@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://github.com/LakeeshaVeruni16/LakeeshaVeruni16/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
+</p>
+
 <h1 align="center"> 👋Hi, I'm <span style="color:#f36;">Lakeesha Veruni</span></h1>
 <h3 align="center">📊 Aspiring Data Analyst | 🎓 Bachelor of Science | 🌍 University of Colombo</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LakeeshaVeruni16.LakeeshaVeruni16&style=flat-square" alt="Visitor badge" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/LakeeshaVeruni16/LakeeshaVeruni16/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ I’m currently focused on growing my skills in data analysis, visualization, an
 ### 🛠️ Skills & Tools
 - **Languages:** Python, R, SQL
 - **Data Tools:** Power BI, Tableau, Excel
-- **Other Skills:** Data Cleaning, Data Modeling, EDA, Dashboard Design, Statistical Analysis
+- **Other Skills:** Data Cleaning, Data Modeling, Data Visualization, EDA, Dashboard Design, Statistical Analysis
 
 ---
 
