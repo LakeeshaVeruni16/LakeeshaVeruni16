@@ -1,13 +1,13 @@
+<p align="center">
+  <img src="https://github.com/LakeeshaVeruni16/LakeeshaVeruni16/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
+</p>
+
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#f36;">Lakeesha Veruni</span></h1>
 <h3 align="center">📊 Aspiring Data Analyst | 🎓 Bachelor of Science | 🌍 University of Colombo</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LakeeshaVeruni16.LakeeshaVeruni16&style=flat-square" alt="Visitor badge" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/LakeeshaVeruni16/LakeeshaVeruni16/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
 </p>
 
 
