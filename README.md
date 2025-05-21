@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**LakeeshaVeruni16/LakeeshaVeruni16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm <span style="color:#f36;">Lakeesha Veruni</span></h1>
+<h3 align="center">📊 Aspiring Data Analyst | 🎓 Bachelor of Science | 🌍 University of Colombo</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LakeeshaVeruni16.LakeeshaVeruni16&style=flat-square" alt="Visitor badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LakeeshaVeruni16/LakeeshaVeruni16/main/assets/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
+</p>
+
+---
+
+### 🚀 About Me
+I'm Lakeesha Veruni, an undergraduate student passionate about transforming complex data into actionable insights. My goal is to build intuitive dashboards and data-driven solutions that empower decision-makers.
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python, SQL, R
+- **Data Tools:** Power BI, Tableau, Excel
+- **Other Skills:** Data Cleaning, Data Modeling, Dashboard Design, Critical Thinking
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LakeeshaVeruni16&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💬 Let's Connect
+- 📧 Email: mdlveruni@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakeesha-veruni)
+
+
