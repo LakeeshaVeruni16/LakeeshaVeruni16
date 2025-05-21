@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LakeeshaVeruni16/LakeeshaVeruni16/main/assets/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
+  <img src="https://github.com/LakeeshaVeruni16/LakeeshaVeruni16/blob/main/cover.jpeg" alt="cover" style="width:100%; max-width:900px;" />
 </p>
 
 ---
