@@ -3,17 +3,20 @@
 </p>
 
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#f36;">Lakeesha Veruni</span></h1>
+<h1 align="center"> 👋Hi, I'm <span style="color:#f36;">Lakeesha Veruni</span></h1>
 <h3 align="center">📊 Aspiring Data Analyst | 🎓 Bachelor of Science | 🌍 University of Colombo</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LakeeshaVeruni16.LakeeshaVeruni16&style=flat-square" alt="Visitor badge" />
 </p>
 
+---
+<B> Bachelor of Science @University of Colombo </B>
 
 ---
 
 ### 🚀 About Me
+
 I'm Lakeesha Veruni, an undergraduate student passionate about transforming complex data into actionable insights. My goal is to build intuitive dashboards and data-driven solutions that empower decision-makers.
 
 ---
