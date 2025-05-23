@@ -13,11 +13,15 @@
 
 ## 🚀 About Me
 
+<div style="outline: 2.5px solid #f36; outline-offset: 3px; border-radius: 12px; padding: 18px; background-color: #fffbea;">
+
 I am **Lakeesha Veruni**, a dedicated data analyst with a strong academic background in **Statistics and Computer Science** from the University of Colombo. I am passionate about transforming data into actionable insights that drive better decision-making and business outcomes.
 
 - 🧑‍💻 **Currently:** Expanding my expertise in data analytics, visualization, and real-world project work.
 - 🔍 **Interests:** Data storytelling, predictive analytics, and dashboard design.
 - 🌱 **Learning:** Advanced analytics techniques and industry best practices.
+
+</div>
 
 ---
 
@@ -41,7 +45,7 @@ I am **Lakeesha Veruni**, a dedicated data analyst with a strong academic backgr
 | Data Cleaning         | Data Visualization         | Dashboard Design       |
 | Data Modeling         | Exploratory Data Analysis  | Statistical Analysis   |
 | Data Manipulation     | Reporting                  | Problem Solving        |
-| Database Management   |                            |  Team Working                      |
+| Database Management   |                            | Team Working           |
 
 ---
 
